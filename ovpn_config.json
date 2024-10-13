@@ -1,5 +1,10 @@
 {
     "Brazil": [
         "Brazil1.ovpn"
+    ],
+    "Greece": [
+        "Greece1.ovpn",
+        "Greece2.ovpn",
     ]
+
 }
