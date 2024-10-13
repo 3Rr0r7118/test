@@ -1,15 +1,5 @@
 {
-    "Germany": [
-        "de1.vpnjantit-tcp-992.ovpn",
-        "de2.vpnjantit-tcp-992.ovpn",
-        "de3.vpnjantit-tcp-992.ovpn"
-    ],
-    "United States": [
-        "us1.vpnjantit-tcp-992.ovpn",
-        "us2.vpnjantit-tcp-992.ovpn"
-    ],
-    "United Kingdom": [
-        "uk1.vpnjantit-tcp-992.ovpn",
-        "uk2.vpnjantit-tcp-992.ovpn"
+    "Brazil": [
+        "Brazil1.ovpn"
     ]
 }
