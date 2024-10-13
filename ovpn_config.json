@@ -4,7 +4,19 @@
     ],
     "Greece": [
         "Greece1.ovpn",
-        "Greece2.ovpn",
+        "Greece2.ovpn"
+    ],
+    "Australia": [
+        "Australia1.ovpn"
+    ],
+    "Japan": [
+        "Japan1.ovpn",
+        "Japan2.ovpn",
+        "Japan3.ovpn"
+    ],
+    "Peru": [
+        "Peru1.ovpn"
+
     ]
 
 }
